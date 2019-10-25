@@ -28,4 +28,5 @@ To run it:
   2)After that click on the output server link from the previous command and that will open app in your default browser.
 
 
-Check out this for Image of App: Screenshot from 2019-10-25 16-58-49.png
+Check out this for Image of App: 
+https://github.com/cyberdhiman/Dash-App-For-Visualization/blob/master/Screenshot%20from%202019-10-25%2016-58-49.png
