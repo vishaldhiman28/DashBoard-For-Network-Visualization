@@ -1,5 +1,5 @@
 # Dash-App-For-Visualization
-I will be uploading some interesting apps developed using Dash in python.
+I will be uploading some interesting interactive apps developed using Dash in python.
 For now, I have only provided a network visualization of the dataset.
 About Dataset:
 
@@ -26,3 +26,6 @@ To run it:
                >> python3 dash_networkplot.py
                
   2)After that click on the output server link from the previous command and that will open app in your default browser.
+
+
+Check out this for Image of App: Screenshot from 2019-10-25 16-58-49.png
