@@ -1,6 +1,7 @@
 # Dash-App-For-Visualization
-I will be uploading some interesting interactive apps developed using Dash in python.
-For now, I have only provided a network visualization of the dataset.
+
+
+
 About Dataset:
 
 A network of technology tags from Developer Stories on the Stack Overflow online developer community website.
