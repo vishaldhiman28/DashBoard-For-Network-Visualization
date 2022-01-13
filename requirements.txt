@@ -16,7 +16,7 @@ networkx==2.4
 numpy==1.18.5
 oauth==1.0.1
 pandas==1.0.4
-Pillow==5.1.0
+Pillow==9.0.0
 plotly==4.8.1
 pycrypto==2.6.1
 pycups==1.9.73
